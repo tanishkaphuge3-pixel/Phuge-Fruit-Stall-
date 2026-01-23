@@ -113,7 +113,7 @@
   <p><b>Shop Name:</b> Phuge Fruits</p>
   <p><b>Address:</b> Rao Colony, Talegaon Dabhade, Pune, Maharashtra, India</p>
   <p><b>Phone:</b> +91 7822884010</p>
-  <p><b>Open Time:</b> 7:00 AM – 9:00 PM</p>
+  <p><b>Open PM</p>
 </section><footer>
   <p>© 2026 Phuge Fruits | Freshness You Can Trust</p>
 </footer></body>
